@@ -1,1 +1,2 @@
-# idoly-pride-chart
+# IDOLY PRIDE Chart Pack
+#### MasterThe8
