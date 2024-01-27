@@ -1,2 +1,2 @@
 # IDOLY PRIDE Chart Pack
-#### MasterThe8
+## MasterThe8
