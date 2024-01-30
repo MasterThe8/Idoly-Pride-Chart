@@ -340,3 +340,23 @@ iframe {
     justify-content: center;
     align-items: center;
 }
+
+.my-discord{
+    color: #7289da;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.chind-wa{
+    color: #0fb826;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 25px;
+}
+
+.mycontact-info{
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px;
+}
