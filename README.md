@@ -1,2 +1,3 @@
 # IDOLY PRIDE Chart Pack
-## MasterThe8
+
+[Go to Website](https://masterthe8.github.io/Idoly-Pride-Chart/)
